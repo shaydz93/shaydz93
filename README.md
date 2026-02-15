@@ -7,14 +7,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Tier 2 IT Support & Cybersecurity Specialist** based in Carrollton, GA. I build production-grade security tools that combine AI-powered threat detection, network monitoring, and automated defense systems.
+I'm a **Tier 2 IT Support & Cybersecurity Specialist** based in Georgia, USA. I build production-grade security tools that combine AI-powered threat detection, network monitoring, and automated defense systems.
 
 - 🔭 Currently maintaining **Super Monitor v3** — Rust-powered network defense platform
 - 🛡️ Running enterprise-grade security stack: Suricata IDS, YARA malware scanning, threat intel feeds
 - 🤖 Integrating local LLMs (Ollama/kimi-k2.5) for real-time threat analysis
 - 🌱 Deep into OSINT, digital forensics, and purple team operations
 - 💬 Ask me about: Rust, Python, network defense, threat intelligence, OSINT, Proxmox homelabs
-- ⚡ Fun fact: I run a 34-device network with full packet mirroring and AI-driven anomaly detection
+- ⚡ Fun fact: I run a multi-device network with full packet mirroring and AI-driven anomaly detection
 
 ---
 
@@ -88,8 +88,8 @@ Python utility for automated system migrations and configuration transfers.
 - **Forensics:** exiftool, binwalk, foremost, steghide
 
 **Infrastructure:**
-- **Virtualization:** Proxmox VE with Windows VMs
-- **Network:** 34-device network with mirrored port monitoring
+- **Virtualization:** Type 1 and 2 hypervisors with multiple VMs
+- **Network:** Multi-device network with mirrored port monitoring
 - **Security Stack:** UFW, Fail2ban, rkhunter, unattended-upgrades
 - **AI/LLM:** Ollama with kimi-k2.5 for local threat analysis
 
@@ -122,23 +122,15 @@ Python utility for automated system migrations and configuration transfers.
 
 **Alerting:** Telegram notifications for critical events  
 **Monitoring:** 24/7 automated with cron jobs and systemd services  
-**Location:** Proxmox homelab (SZN-DebianBot)
+**Location:** Hypervisor homelab
 
 ---
 
 ## 🏠 Homelab Setup
 
-**Host:** SZN-DebianBot (Debian 13 rolling, x86_64)  
-**Network:** 192.168.1.0/24 with Tailscale mesh VPN  
-**Virtualization:** Proxmox VE
-- Windows 10 VM (192.168.1.195) - Security testing
-- Debian 12 containers for services
-- NAS storage (192.168.1.219)
-
-**Network Devices:** 34 total
-- Denon AVR-S760H (hardened, Telnet blocked)
-- Samsung SmartThings (SSDP alerts suppressed)
-- Multiple IoT devices under Suricata monitoring
+**Host:** Debian 13 rolling, x86_64  
+**Network:** Tailscale mesh VPN  
+**Virtualization:** Type 1 and 2 Hypervisor
 
 ---
 
@@ -151,8 +143,10 @@ Python utility for automated system migrations and configuration transfers.
 - Network anomaly detection with local LLMs
 
 **Certifications:**
-- CCNA (In Progress - 200-301)
+- CompTIA A+ (In progress 1201/1202)
+- CompTIA Network+ (Planned)
 - CompTIA Security+ (Planned)
+- And more
 
 ---
 
@@ -171,7 +165,6 @@ We don't just defend — we hunt.
 
 - 🌐 **LinkedIn:** [Zachary Mason](https://www.linkedin.com/in/zachary-mason-96805190)
 - 📧 **Email:** zacharym@shaydznet.com
-- 💬 **Telegram:** @ShaydZ93
 
 ---
 
