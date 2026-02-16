@@ -170,5 +170,3 @@ We don't just defend — we hunt.
 
 > "Monitor smarter. Secure better. Deploy with confidence."  
 > — The Dark Purple Team 🖤💜
-
-![Profile Views](https://komarev.com/ghpvc/?username=shaydz93&color=purple)
